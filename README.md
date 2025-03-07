@@ -54,3 +54,8 @@ Draws:
 
 Case 2 : Formations used by Manchester City during the season and plotting it against the formation used
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
