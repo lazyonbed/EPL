@@ -6,10 +6,10 @@ Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Capt
 16-09-2023,15:00,Premier League,Matchweek 5,Sat,Away,W,3,1,West Ham,3.6,0.9,68,62475,Kyle Walker,4-2-3-1,Andy Madley,Match Report,,29,13,16.4,1,0,0,2024,ManchesterCity
 23-09-2023,15:00,Premier League,Matchweek 6,Sat,Home,W,2,0,Nott'ham Forest,1.3,1,57,53413,Kyle Walker,4-2-3-1,Anthony Taylor,Match Report,,7,4,17.2,2,0,0,2024,ManchesterCity
 30-09-2023,15:00,Premier League,Matchweek 7,Sat,Away,L,1,2,Wolves,0.9,0.4,68,31415,Kyle Walker,4-2-3-1,Craig Pawson,Match Report,,23,8,19.3,1,0,0,2024,ManchesterCity
-08-10-2023,16:30,Premier League,Matchweek 8,Sun,Away,L,0,1,Arsenal,0.5,0.4,51,60233,Kyle Walker,04-03-2003,Michael Oliver,Match Report,,4,0,14.9,0,0,0,2024,ManchesterCity
+08-10-2023,16:30,Premier League,Matchweek 8,Sun,Away,L,0,1,Arsenal,0.5,0.4,51,60233,Kyle Walker,4-3-2-3,Michael Oliver,Match Report,,4,0,14.9,0,0,0,2024,ManchesterCity
 21-10-2023,15:00,Premier League,Matchweek 9,Sat,Home,W,2,1,Brighton,0.8,0.8,55,53466,Kyle Walker,3-2-4-1,Robert Jones,Match Report,,10,5,18.8,1,0,0,2024,ManchesterCity
 29-10-2023,15:30,Premier League,Matchweek 10,Sun,Away,W,3,0,Manchester Utd,4,0.9,60,73502,Kyle Walker,4-2-3-1,Paul Tierney,Match Report,,20,9,17.2,2,1,1,2024,ManchesterCity
-04-11-2023,15:00,Premier League,Matchweek 11,Sat,Home,W,6,1,Bournemouth,1.9,0.9,65,53358,Kyle Walker,03-04-2003,Craig Pawson,Match Report,,21,8,16.4,0,0,0,2024,ManchesterCity
+04-11-2023,15:00,Premier League,Matchweek 11,Sat,Home,W,6,1,Bournemouth,1.9,0.9,65,53358,Kyle Walker,3-4-2-3,Craig Pawson,Match Report,,21,8,16.4,0,0,0,2024,ManchesterCity
 12-11-2023,16:30,Premier League,Matchweek 12,Sun,Away,D,4,4,Chelsea,2.9,2.9,55,39532,Kyle Walker,3-2-4-1,Anthony Taylor,Match Report,,14,9,16.6,1,1,1,2024,ManchesterCity
 25-11-2023,12:30,Premier League,Matchweek 13,Sat,Home,D,1,1,Liverpool,1.3,0.6,59,53289,Kyle Walker,3-2-4-1,Chris Kavanagh,Match Report,,16,5,16.3,1,0,0,2024,ManchesterCity
 03-12-2023,16:30,Premier League,Matchweek 14,Sun,Home,D,3,3,Tottenham,2.6,0.5,55,53473,Kyle Walker,3-2-4-1,Simon Hooper,Match Report,,17,4,13.4,0,0,0,2024,ManchesterCity
@@ -37,7 +37,7 @@ Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Capt
 11-05-2024,12:30,Premier League,Matchweek 37,Sat,Away,W,4,0,Fulham,3.2,0.1,64,24418,Kevin De Bruyne,4-2-3-1,Anthony Taylor,Match Report,,15,8,17.6,0,1,1,2024,ManchesterCity
 14-05-2024,20:00,Premier League,Matchweek 34,Tue,Away,W,2,0,Tottenham,2.4,1.7,47,61065,Kyle Walker,4-2-3-1,Chris Kavanagh,Match Report,,7,4,14.5,0,1,1,2024,ManchesterCity
 19-05-2024,16:00,Premier League,Matchweek 38,Sun,Home,W,3,1,West Ham,1.9,0.4,71,55097,Kyle Walker,4-1-4-1,John Brooks,Match Report,,28,12,17.9,2,0,0,2024,ManchesterCity
-12-08-2023,12:30,Premier League,Matchweek 1,Sat,Home,W,2,1,Nott'ham Forest,0.8,1.2,78,59984,Martin Ødegaard,04-03-2003,Michael Oliver,Match Report,,15,7,19.1,0,0,0,2024,Arsenal
+12-08-2023,12:30,Premier League,Matchweek 1,Sat,Home,W,2,1,Nott'ham Forest,0.8,1.2,78,59984,Martin Ødegaard,4-3-2-3,Michael Oliver,Match Report,,15,7,19.1,0,0,0,2024,Arsenal
 21-08-2023,20:00,Premier League,Matchweek 2,Mon,Away,W,1,0,Crystal Palace,2,1,53,24189,Martin Ødegaard,04-03-2003,David Coote,Match Report,,13,2,16.4,0,1,1,2024,Arsenal
 26-08-2023,15:00,Premier League,Matchweek 3,Sat,Home,D,2,2,Fulham,3.2,0.6,71,59961,Martin Ødegaard,04-03-2003,Paul Tierney,Match Report,,18,9,13.8,0,1,1,2024,Arsenal
 03-09-2023,16:30,Premier League,Matchweek 4,Sun,Home,W,3,1,Manchester Utd,2.3,0.9,55,60192,Martin Ødegaard,04-03-2003,Anthony Taylor,Match Report,,17,5,15,0,0,0,2024,Arsenal
